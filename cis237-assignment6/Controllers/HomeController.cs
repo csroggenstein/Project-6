@@ -15,14 +15,14 @@ namespace cis237_assignment6.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Application Description";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Kalamazoo Valley Community College";
 
             return View();
         }

@@ -1,7 +1,7 @@
 # Assignment 6 - Web Application to Manage Beverages
 
 ## Author
-
+Christian Roggenstein
 
 
 ## Description
@@ -136,7 +136,8 @@ the culprit, but I don't know which ones.
 | **Total**                               | **100**|
 
 ## Outside Resources Used
-
+None
 
 
 ## Known Problems, Issues, And/Or Errors in the Program
+None
